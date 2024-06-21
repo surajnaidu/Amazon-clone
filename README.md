@@ -1,2 +1,3 @@
 # Amazon-login-page
-I have Made This Page Using Html Css You are open to contribute and improve the CODE
+
+This is a project to build a functional e-commerce website similar to Amazon, allowing users to browse, search, add items to carts, and checkout for simulated purchases.
